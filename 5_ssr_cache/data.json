@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Adam",
+            "profession": "Carpenter"
+        },
+        {
+            "id": 1,
+            "name": "John",
+            "profession": "Blacksmith"
+        },
+        {
+            "id": 1,
+            "name": "Spartan",
+            "profession": "A woah"
+        }
+    ]
+}
